@@ -1,2 +1,2 @@
 # Portfolio
-Hallo
+[Дипломный проект](DP/Diplom.md)
