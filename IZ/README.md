@@ -11,5 +11,5 @@
 [Сертификат](Sert.jpg)
 
 <p align="center" width="100%">
-  <img width="75%" src="IZ/kod-2.gif"> 
+  <img width="75%" src="kod-2.gif"> 
 </p>
