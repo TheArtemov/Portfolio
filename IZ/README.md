@@ -1,4 +1,4 @@
-Доработка типовых конфигураций с [Раширением](demonstr-2.gif) ([Код](kod-2.gif)) и [Внесением изменений на поддержке](demonstr-1.gif) ([Код](kod-1.gif))
+Доработка типовых конфигураций
 
 -В документе выведено поле "Согласованная скидка".
 
@@ -10,6 +10,22 @@
 
 [Сертификат](Sert.jpg)
 
+С расширением
+
+<p align="center" width="100%">
+  <img width="100%" src="demonstr-2.gif"> 
+</p>
+
 <p align="center" width="100%">
   <img width="100%" src="kod-2.gif"> 
+</p>
+
+Внесением изменений на поддержке
+
+<p align="center" width="100%">
+  <img width="100%" src="demonstr-1.gif"> 
+</p>
+
+<p align="center" width="100%">
+  <img width="100%" src="kod-1.gif"> 
 </p>
