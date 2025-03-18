@@ -51,4 +51,4 @@
 *Важно! Реализовывать заполнение печатной формы строго в соответствии с
 примером ниже (конструктор печатных форм выдает отличную от требуемой форму)*
 
-![](https://github.com/TheArtemov/Portfolio/blob/main/Test/Oder.jpg)
+![](https://github.com/TheArtemov/Portfolio/blob/main/Test/Img/Oder.jpg)
